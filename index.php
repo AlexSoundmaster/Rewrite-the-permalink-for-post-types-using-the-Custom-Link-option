@@ -1,3 +1,4 @@
+<?php
 /**
  * Rewrite the permalink for post types using the Custom Link option
  *
